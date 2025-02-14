@@ -55,14 +55,14 @@
     <a href="https://github.com/jheisonnovak">
     <picture>
         <source 
-            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&theme=dark&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=600"
+            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=600"
             media="(prefers-color-scheme: dark)"
         />
         <source 
             srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&theme=swift&count_private=true&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&cache_seconds=600"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img loading="lazy" height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&theme=swift&count_private=true&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&cache_seconds=600" />
+        <img loading="lazy" height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=600" />
     </picture>
     <picture>
         <source 
