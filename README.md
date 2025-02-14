@@ -53,28 +53,8 @@
 
 <div align="center">
     <a href="https://github.com/jheisonnovak">
-    <picture>
-        <source 
-            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&theme=chartreuse-dark&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=600"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source 
-            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&theme=swift&count_private=true&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&cache_seconds=600"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img loading="lazy" height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&theme=swift&count_private=true&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&cache_seconds=600" />
-    </picture>
-    <picture>
-        <source 
-            srcset="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1116&title_color=65E0BD&cache_seconds=600"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source 
-            srcset="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF&cache_seconds=600"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img loading="lazy" height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF&cache_seconds=600" />
-    </picture>
+    <img height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=600" alt="Github stats">
+    <img height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1116&title_color=65E0BD&cache_seconds=600" alt="Github stats">
 </div>
 
 <h3 align="center">💬 Contact:</h3>
