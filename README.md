@@ -8,7 +8,7 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" min-width="345px">
 
 ## 💻 Core Technologies
 
@@ -27,7 +27,7 @@
 -   🍃 **Spring Boot** - Enterprise Java applications
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" min-width="345px">
 
 ## 🗄️ Data & Infrastructure
 
