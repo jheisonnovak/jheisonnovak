@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/jheisonnovak" style="text-decoration: none; color: inherit;">
-    <img height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&hide=prs,issues&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=43200" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=43200" alt="GitHub Stats">
     <img height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1116&title_color=65E0BD&cache_seconds=43200" alt="Most Used Languages">
   </a>
 </div>
